@@ -1,2 +1,17 @@
-div { background-color: silver; padding: 10px; margin: 10px 0; }
-span { color: red; font-weight: bold; }
+DIV
+{
+background-color: silver;
+color: navy;
+font-size: 20pt;
+padding: 10px;
+border: 2px solid black;
+}
+
+SPAN
+{
+color: red;
+font-size: 18pt;
+font-style: italic;
+}
+
+/* Adam Davidson 1P 12.05.2026 */
